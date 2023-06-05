@@ -16,7 +16,7 @@ import torch.optim as optim
 from daakg.load_data import *
 from daakg.model.decoder import Decoder
 # from daakg.utils import *
-from semi_utils import bootstrapping, boot_update_triple
+from daakg.semi_utils import bootstrapping, boot_update_triple
 
 from torch.utils.tensorboard import SummaryWriter
 import logging
