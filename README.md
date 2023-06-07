@@ -41,11 +41,13 @@ python -m daakg.run --log transe \
 If you find our work useful, please kindly cite it as follows:
 
 ```
-@article{Remp,
-  author    = {Huang, Jiacheng and Sun, Zequn and Chen, Qijin and Xu, Xiaozhou and Ren, Weijun and Hu, Wei},
-  title     = {Deep Active Alignment of Knowledge Graph Entities and Schemata},
-  booktitle = {PACMMOD},
-  pages     = {xxx--xxx},
-  year      = {2023}
+@article{DAAKG_SIGMOD2023,
+  author    = { Huang, Jiacheng and Sun, Zequn and Chen, Qijin and Xu, Xiaozhou and Ren, Weijun and Hu, Wei },
+  title     = { Deep Active Alignment of Knowledge Graph Entities and Schemata },
+  journal   = { Proc. ACM Manag. Data },
+  year      = 2023,
+  pages     = 159,
+  volume    = 1,
+  number    = 2
 }
 ```
